@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gsap-scrolltrigger/static/css/main.64c20a7c.css",
+    "main.js": "/react-gsap-scrolltrigger/static/js/main.339cf65c.js",
+    "static/media/dog-2.jpg": "/react-gsap-scrolltrigger/static/media/dog-2.597eb2c1b3853eaf29d2.jpg",
+    "static/media/dog-1.jpg": "/react-gsap-scrolltrigger/static/media/dog-1.0bfb7b2cfc58ebc0c408.jpg",
+    "static/media/dog-3.jpg": "/react-gsap-scrolltrigger/static/media/dog-3.4c059cd66e49b9b67afc.jpg",
+    "index.html": "/react-gsap-scrolltrigger/index.html",
+    "main.64c20a7c.css.map": "/react-gsap-scrolltrigger/static/css/main.64c20a7c.css.map",
+    "main.339cf65c.js.map": "/react-gsap-scrolltrigger/static/js/main.339cf65c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c20a7c.css",
+    "static/js/main.339cf65c.js"
+  ]
+}
